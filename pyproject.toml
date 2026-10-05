@@ -1,0 +1,5 @@
+[project]
+name = "option-pricing-laboratory"
+version = "1.0.0"
+description = "Streamlit laboratory for option pricing, binomial trees, finite differences, stability analysis and Greeks."
+requires-python = ">=3.10"

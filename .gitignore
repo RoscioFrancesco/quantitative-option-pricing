@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Reports / generated outputs
+*.pdf
+*.html
+*.csv
+*.xlsx
